@@ -86,6 +86,10 @@ credit-risk-analysis/
 - Monitor revolving utilization > 80% as early warning
 - Deploy Logistic Regression for real-time default scoring
 
+
+<img width="1510" height="783" alt="image" src="https://github.com/user-attachments/assets/8599e5bf-79ad-43ea-99e3-7ffff2d17376" />
+
+
 ## 🚀 How to Run
 1. Clone the repo:
 ```bash

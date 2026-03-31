@@ -112,13 +112,4 @@ matplotlib
 sqlalchemy
 mysql-connector-python
 ```
-
-## 👤 Author
-**[Your Name]**
-- 📧 Email: [your email]
-- 💼 LinkedIn: [your LinkedIn]
-- 🐙 GitHub: [your GitHub]
-
-## 📄 License
-Educational and portfolio purposes only.
 Data sourced from Lending Club via Kaggle.
